@@ -1,6 +1,13 @@
 
 .Go{
-    border: 2px solid greenyellow;
-    border-radius: 1px;
+    border: 4px solid greenyellow;
+    border-radius: 4px;
+    background-color: grey;
+    margin-top: 10px; 
+
+
+    }
     
-}
+    .bg{
+        background-color: hotpink;
+    }
